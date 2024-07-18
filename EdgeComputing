@@ -1,0 +1,17 @@
+EdgeComputing/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   ├── feature_request.md
+│   └── workflows/
+│       └── ci.yml
+├── src/
+│   ├── __init__.py
+│   └── edge_computing.py
+├── tests/
+│   ├── __init__.py
+│   └── test_edge_computing.py
+├── .gitignore
+├── LICENSE
+├── README.md
+└── setup.py
